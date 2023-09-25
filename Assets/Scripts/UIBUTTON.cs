@@ -1,0 +1,14 @@
+public enum UIBUTTON
+{
+    FORWARD,
+    REVERSE,
+    LEFT,
+    RIGHT,
+    CONTROLMODE,
+    ARMLEFT,
+    ARMRIGHT,
+    ARMUP,
+    ARMDOWN,
+    ARMFRONT,
+    ARMBACK
+}
